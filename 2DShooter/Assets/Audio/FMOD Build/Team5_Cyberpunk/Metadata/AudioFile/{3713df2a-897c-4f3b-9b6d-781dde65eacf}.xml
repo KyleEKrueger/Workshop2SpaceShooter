@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{3713df2a-897c-4f3b-9b6d-781dde65eacf}">
+		<property name="assetPath">
+			<value>Machine_Gun.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>60.456000000000003</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7f917275-2c0d-4eb8-8189-eab38891b763}</destination>
+		</relationship>
+	</object>
+</objects>

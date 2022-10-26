@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{65fb5fcb-38af-4fcc-9dbc-cb69c2bfd6fc}">
+		<property name="assetPath">
+			<value>Enemy_Fire.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.5</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7f917275-2c0d-4eb8-8189-eab38891b763}</destination>
+		</relationship>
+	</object>
+</objects>
