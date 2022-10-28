@@ -2,9 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FireState : MonoBehaviour
+public class EnemyStateManager : MonoBehaviour
 {
-
     // Start is called before the first frame update
     void Start()
     {
@@ -15,5 +14,10 @@ public class FireState : MonoBehaviour
     void Update()
     {
         
+    }
+
+    public void DestroyEnemy()
+    {
+        Destroy(this);
     }
 }
